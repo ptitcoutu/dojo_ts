@@ -6,7 +6,7 @@
     "experimentalDecorators": true,
     "importHelpers": true,
     "strict": false,
-    "module": "esnext",
+    "module": "commonjs",
     "jsx": "preserve",
     "esModuleInterop": true,
     "sourceMap": true,
